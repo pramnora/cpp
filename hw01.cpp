@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/* NOTE: The compile I'm using is: CodeBlocks */
+/* NOTE: The compiler I'm using is: CodeBlocks */
 
 int main()
 {
